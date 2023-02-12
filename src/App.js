@@ -1,6 +1,5 @@
 import img1 from "./assets/Dashboard.png";
 import microsolft from "./assets/mcrsft.png";
-import cardimg1 from "./assets/cardimg1.png";
 import userLogo from "./assets/userlogo.svg";
 import paymentLogo from "./assets/paymentlogo.svg";
 import calenderLogo from "./assets/calenderlogo.svg";
@@ -12,10 +11,6 @@ import bargraph from "./assets/bargraph.svg";
 import weblogo from "./assets/grow.png";
 import googleLogo from "./assets/googlePlus.png";
 import instagramLogo from "./assets/instagram.png";
-import cardsubimg1 from "./assets/cardsubimg1.svg";
-import cardsubimg2 from "./assets/cardsubimg2.png";
-import cardsubimg3 from "./assets/cardsubimg3.svg";
-import cardsubimg4 from "./assets/cardsubimg4.svg";
 import block1 from "./assets/block1.svg";
 import block2 from "./assets/block2.svg";
 import block3 from "./assets/block3.svg";
@@ -24,7 +19,12 @@ import block5 from "./assets/block5.svg";
 import block6 from "./assets/block6.svg";
 import block7 from "./assets/block7.svg";
 import block8 from "./assets/block8.svg";
-
+import cardimgpg2 from "./assets/cardimgPg2.png";
+import cardimg2pg2 from "./assets/cardimg2pg2.png";
+import cardsubimgpg2 from "./assets/cardsubimgpg2.svg";
+import cardsubimg2pg2 from "./assets/cardsubimg2pg2.svg";
+import cardsubimg3pg2 from "./assets/cardsubimg3pg2.svg";
+import cardimg3pg2 from "./assets/cardimg3pg2.png";
 import "./App.css";
 
 function App() {
@@ -146,9 +146,7 @@ function App() {
 
       <section className="grid grid-cols-2 mx-48">
         <div>
-          <img src={cardsubimg1} alt="" className="cardsubimg1" />
-          <img src={cardimg1} alt="" className="" />
-          <img src={cardsubimg2} alt="" className="cardsubimg2" />
+          <img src={cardimgpg2} alt=" " className="mt-32"/>
         </div>
 
         <div className="mt-52 ml-6">
@@ -161,6 +159,7 @@ function App() {
               letterSpacing: "-1.13px",
               opacity: "1",
             }}
+           
           >
             Full control to your club members
             <br /> with our premium fitness software solutions
@@ -168,12 +167,13 @@ function App() {
           </h1>
 
           <div style={{ lineHeight: "2.3rem", marginTop: "7px" }}>
-            <span className="flex mr-5">
+            <span className="flex mr-5" style={{color: "#EC8D4F"}}>
               <img src={userLogo} alt=" " />
-              <span style={{ color: "#306CF6", marginLeft: "7px" }}>
+              <span style={{ color: "#306CF6", marginLeft: "7px",color: "#EC8D4F" }}>
                 Member Attendance management
               </span>
             </span>
+            <p style={{letterSpacing:"-0.66px",color:"#67707D"}}  className="leading-normal">Check your member attendance, check in dates and out. Using Member Account QR Code on their phones; make sure they are visiting you everyday and build loyalty.</p>
             <span className="flex mr-5">
               <img src={paymentLogo} alt=" " />
               <span style={{ color: "#306CF6", marginLeft: "7px" }}>
@@ -232,9 +232,10 @@ function App() {
           </div>
         </div>
         <div>
-          <img src={cardsubimg3} alt="" className="cardsubimg3" />
-          <img src={cardimg2} alt="" className="" />
-          <img src={cardsubimg4} alt="" className="cardsubimg4" />
+          <img src={cardsubimg3pg2} alt="" className="cardsubimgpg3" />
+          <img src={cardimg2pg2} alt="" className="" />
+          <img src={cardsubimgpg2} alt="" className="cardsubimgpg2" /> 
+          <img src={cardsubimg2pg2} alt="" className="cardsubimg2pg2" />
         </div>
       </section>
 
@@ -316,7 +317,7 @@ function App() {
             Automate manual work. Focus on growing
             <br /> revenue with our gym software.
           </h1>
-          <img src={cardimg3} alt="" className="mt-5" />
+          <img src={cardimg3pg2} alt="" className="mt-5 w-10/12" />
         </div>
         <div>
           <p className="mt-8">
@@ -336,10 +337,13 @@ function App() {
                 color: "#306CF6",
                 opacity: "1",
                 fontWeight: "500",
+                color:"#EC8D4F"
               }}
             >
-              <span className="mr-2">01</span> We’re put user experience first
+              <span className="mr-2" style={{color:"#EC8D4F"}}>01</span> We’re put user experience first
             </p>
+            <p style={{color:"#67707D",letterSpacing:"-0.66px"}} className="leading-normal">modern, user-friendly fitness management system that solves real problems.
+              It’s the best way of showing your clients you care about them.</p>
             <p
               style={{
                 letterSpacing: "-0.85px",
