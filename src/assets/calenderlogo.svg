@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.5" height="17.5" viewBox="0 0 16.5 17.5">
+  <g id="Iconly_Light_Calendar" data-name="Iconly/Light/Calendar" transform="translate(0.75 0.75)">
+    <g id="Calendar">
+      <path id="Line_200" d="M0,.473H14.853" transform="translate(0.077 5.451)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_201" d="M.459.473H.466" transform="translate(10.743 8.575)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_202" d="M.459.473H.466" transform="translate(7.045 8.575)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_203" d="M.459.473H.466" transform="translate(3.34 8.575)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_204" d="M.459.473H.466" transform="translate(10.743 11.684)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_205" d="M.459.473H.466" transform="translate(7.045 11.684)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_206" d="M.459.473H.466" transform="translate(3.34 11.684)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_207" d="M.463,0V2.633" transform="translate(10.407)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Line_208" d="M.463,0V2.633" transform="translate(3.675)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path" d="M11.032,0H3.976C1.529,0,0,1.309,0,3.714v7.24c0,2.443,1.529,3.783,3.976,3.783h7.048c2.455,0,3.976-1.316,3.976-3.722v-7.3C15.008,1.309,13.487,0,11.032,0Z" transform="translate(0 1.263)" fill="none" stroke="#306cf6" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

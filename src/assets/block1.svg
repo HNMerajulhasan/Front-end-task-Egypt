@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="418" height="164" viewBox="0 0 418 164">
+  <defs>
+    <filter id="Rectangle_387" x="0" y="0" width="418" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8541" data-name="Group 8541" transform="translate(133 -2469)">
+    <g transform="matrix(1, 0, 0, 1, -133, 2469)" filter="url(#Rectangle_387)">
+      <rect id="Rectangle_387-2" data-name="Rectangle 387" width="376" height="122" rx="16" transform="translate(21 15)" fill="#fff"/>
+    </g>
+    <text id="hard_to_communicate_with_my_clients_And_Dismissing_Promoting" data-name="hard to communicate with my clients
+And Dismissing Promoting" transform="translate(76 2560)" fill="#67707d" font-size="14" font-family="Nunito" font-weight="500" letter-spacing="-0.009em"><tspan x="-114" y="0">hard to communicate with my clients</tspan><tspan x="-80" y="19">and dismissing promoting</tspan></text>
+    <text id="Email_and_text_management_" data-name="Email and text management 📨" transform="translate(76 2529)" fill="#0b2c75" font-size="17" font-family="Nunito" font-weight="700" letter-spacing="-0.009em"><tspan x="-125" y="0">Email And Text Management </tspan><tspan y="0" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="400">📨</tspan></text>
+  </g>
+</svg>

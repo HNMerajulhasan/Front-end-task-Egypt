@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="418" height="164" viewBox="0 0 418 164">
+  <defs>
+    <filter id="Rectangle_390" x="0" y="0" width="418" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8547" data-name="Group 8547" transform="translate(-591 -2618)">
+    <g transform="matrix(1, 0, 0, 1, 591, 2618)" filter="url(#Rectangle_390)">
+      <rect id="Rectangle_390-2" data-name="Rectangle 390" width="376" height="122" rx="16" transform="translate(21 15)" fill="#fff"/>
+    </g>
+    <g id="Group_8546" data-name="Group 8546" transform="translate(1)">
+      <text id="Have_a_no_time_to_view_every_thing_about_my_business" data-name="Have a no time to view every thing about
+my business" transform="translate(799 2719)" fill="#67707d" font-size="14" font-family="Nunito" font-weight="500" letter-spacing="-0.009em"><tspan x="-126" y="0">have a no time to view every thing about</tspan><tspan x="-38" y="19">my business</tspan></text>
+      <text id="Brief_about_everything_on_one_screen_" data-name="Brief about everything 
+on one screen ☺️" transform="translate(799 2663)" fill="#0b2c75" font-size="18" font-family="Nunito" font-weight="700" letter-spacing="-0.009em"><tspan x="-96" y="0">Brief About Everything </tspan><tspan x="-75" y="27">On One Screen </tspan><tspan y="27" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="400">☺️</tspan></text>
+    </g>
+  </g>
+</svg>

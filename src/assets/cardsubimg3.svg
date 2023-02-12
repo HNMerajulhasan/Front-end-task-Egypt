@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196" height="119" viewBox="0 0 196 119">
+  <defs>
+    <filter id="Rectangle_5102" x="0" y="0" width="196" height="119" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8481" data-name="Group 8481" transform="translate(-957 -1532)">
+    <g transform="matrix(1, 0, 0, 1, 957, 1532)" filter="url(#Rectangle_5102)">
+      <rect id="Rectangle_5102-2" data-name="Rectangle 5102" width="178" height="101" rx="8" transform="translate(9 6)" fill="#fff"/>
+    </g>
+    <g id="Group_8463" data-name="Group 8463" transform="translate(96 -274)">
+      <g id="Group_8462" data-name="Group 8462">
+        <text id="Male" transform="translate(899 1883)" fill="#343434" font-size="8" font-family="Nunito" font-weight="500" letter-spacing="-0.047em"><tspan x="0" y="0">Male</tspan></text>
+        <text id="Female" transform="translate(899 1898)" fill="#343434" font-size="8" font-family="Nunito" font-weight="500" letter-spacing="-0.047em"><tspan x="0" y="0">Female</tspan></text>
+        <rect id="Rectangle_313" data-name="Rectangle 313" width="11" height="11" rx="2" transform="translate(882 1875)" fill="#ffe4b7"/>
+        <rect id="Rectangle_315" data-name="Rectangle 315" width="11" height="11" rx="2" transform="translate(882 1890)" fill="#3465d9"/>
+        <g id="Group_8460" data-name="Group 8460" transform="translate(959.004 1824.266)">
+          <path id="Path_29480" data-name="Path 29480" d="M-541.293,551.644l-.048.073A25.8,25.8,0,0,1-562.8,563.174a25.826,25.826,0,0,1-25.826-25.826,25.829,25.829,0,0,1,15.172-23.534l-1.81-4.6-2.668-6.783a38.055,38.055,0,0,0-22.914,34.918A38.047,38.047,0,0,0-562.8,575.394a37.986,37.986,0,0,0,30.59-15.422Z" transform="translate(600.85 -498.991)" fill="#3465d9"/>
+          <path id="Path_29481" data-name="Path 29481" d="M-401.4,519.177a37.86,37.86,0,0,1-6.565,21.37q-.431.637-.891,1.254l-9.079-8.328,0,0a25.379,25.379,0,0,0,1.8-3.175,25.7,25.7,0,0,0,2.51-11.116,25.828,25.828,0,0,0-25.828-25.828,25.911,25.911,0,0,0-5.611.612,25.528,25.528,0,0,0-5.009,1.668l-.034.014-4.478-11.384q.671-.291,1.354-.555a37.9,37.9,0,0,1,13.778-2.573A38.046,38.046,0,0,1-401.4,519.177Z" transform="translate(478.193 -481.13)" fill="#ffe4b7"/>
+          <path id="Path_29482" data-name="Path 29482" d="M-399.686,548.093a29.674,29.674,0,0,1-5.147,16.75q-.339.5-.7.983l-1.324-1.214a25.371,25.371,0,0,0,1.8-3.175,25.7,25.7,0,0,0,2.51-11.116,25.828,25.828,0,0,0-25.828-25.828,25.906,25.906,0,0,0-5.611.612,25.52,25.52,0,0,0-5.009,1.668l-2.38-6.049q.525-.23,1.061-.436a29.723,29.723,0,0,1,10.8-2.018A29.823,29.823,0,0,1-399.686,548.093Z" transform="translate(467.115 -512.274)" fill="#ffe4b7" style="mix-blend-mode: multiply;isolation: isolate"/>
+          <path id="Path_29483" data-name="Path 29483" d="M-500.708,586.954a25.8,25.8,0,0,1-21.463,11.457A25.826,25.826,0,0,1-548,572.585a25.829,25.829,0,0,1,15.172-23.534l-1.81-4.6a30.158,30.158,0,0,0-17.758,27.87A30.154,30.154,0,0,0-521.867,602.1a30.1,30.1,0,0,0,24.091-12.522Z" transform="translate(560.217 -534.228)" fill="#3465d9" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+      </g>
+      <text id="Members_Gander" data-name="Members Gander" transform="translate(882 1831.266)" fill="#415279" font-size="7" font-family="Nunito" font-weight="500" letter-spacing="-0.047em"><tspan x="0" y="0">Members Gander</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="418" height="164" viewBox="0 0 418 164">
+  <defs>
+    <filter id="Rectangle_386" x="0" y="0" width="418" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8545" data-name="Group 8545" transform="translate(-272 -2469)">
+    <g transform="matrix(1, 0, 0, 1, 272, 2469)" filter="url(#Rectangle_386)">
+      <rect id="Rectangle_386-2" data-name="Rectangle 386" width="376" height="122" rx="16" transform="translate(21 15)" fill="#fff"/>
+    </g>
+    <g id="Group_8544" data-name="Group 8544">
+      <text id="Have_to_jump_BACK_AND_FORTH_AMOUNG_DIFFERENT_TOOLS" data-name="Have to jump BACK AND FORTH
+AMOUNG DIFFERENT TOOLS" transform="translate(481 2521)" fill="#67707d" font-size="14" font-family="Nunito" font-weight="500" letter-spacing="-0.009em"><tspan x="-86" y="0">have to jump back and forth</tspan><tspan x="-70" y="19">amoung different tools</tspan></text>
+      <text id="One_Tool_To_manage_everything_" data-name="One Tool To manage everything 😍" transform="translate(481 2578)" fill="#0b2c75" font-size="17" font-family="Nunito" font-weight="700" letter-spacing="-0.009em"><tspan x="-137" y="0">One Tool To Manage Everything </tspan><tspan y="0" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="400">😍</tspan></text>
+    </g>
+  </g>
+</svg>

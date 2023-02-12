@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="419" height="164" viewBox="0 0 419 164">
+  <defs>
+    <filter id="Rectangle_388" x="0" y="0" width="419" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8549" data-name="Group 8549" transform="translate(-676 -2469)">
+    <g transform="matrix(1, 0, 0, 1, 676, 2469)" filter="url(#Rectangle_388)">
+      <rect id="Rectangle_388-2" data-name="Rectangle 388" width="377" height="122" rx="16" transform="translate(21 15)" fill="#fff"/>
+    </g>
+    <g id="Group_8548" data-name="Group 8548" transform="translate(4 -1)">
+      <text id="Have_a_hard_time_tracking_my_budget_and_my_revenue" data-name="Have a hard time tracking my budget 
+and my revenue" transform="translate(882 2560)" fill="#67707d" font-size="14" font-family="Nunito" font-weight="500" letter-spacing="-0.009em"><tspan x="-115" y="0">have a hard time tracking my budget </tspan><tspan x="-49" y="19">and my revenue</tspan></text>
+      <text id="Ai_Finance_mANAGEMENT_" data-name="Ai Finance mANAGEMENT 🤑" transform="translate(882 2529)" fill="#0b2c75" font-size="17" font-family="Nunito" font-weight="700" letter-spacing="-0.009em"><tspan x="-106" y="0">Ai Finance Management </tspan><tspan y="0" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="400">🤑</tspan></text>
+    </g>
+  </g>
+</svg>

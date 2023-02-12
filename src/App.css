@@ -1,0 +1,73 @@
+.top_heading {
+  margin-top: 131px;
+  margin-left: 120px;
+  width: 526px;
+  height: 138px;
+  font: normal normal medium 50px/69px Nunito;
+  font-size: 2.5rem;
+  font-weight: 400;
+  letter-spacing: -2.35px;
+  color: #000100;
+  opacity: 1;
+  text-align: left;
+}
+.top_text{
+  /* margin-top: 269px; */
+  margin-left: 120px;
+width: 570px;
+height: 44px;
+/* UI Properties */
+text-align: left;
+font: normal normal medium 16px/22px Nunito;
+letter-spacing: -0.75px;
+color: #67707D;
+opacity: 1;
+}
+.dashboard_area{
+  border: 8px solid #060D43;
+  width: 800px;
+  height: 459px;
+  border-radius: 8px 8px 0px 0px;
+  opacity: 1;
+}
+.dashboard_area img{
+  border-radius: 8px 8px 0px 0px;
+  opacity: 1;
+  max-width: 100%;
+}
+.mrsft_logo img{
+  height: 40px;
+  width: 40px;
+  margin-top: 12px;
+  margin-right: 10px;
+}
+.mrsft{
+  font-size: 2.5rem;
+  justify-content: center;
+  font-weight: 500;
+}
+.ggle{
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-left: 25px;
+}
+.cardsubimg1{
+  position: relative;
+  left: 265px;
+  top: 170px;
+}
+.cardsubimg2{
+  position: relative;
+  right: 37px;
+  bottom: 200px;
+}
+.cardsubimg3{
+  position: relative;
+  left: 285px;
+  top: 145px;
+}
+.cardsubimg4{
+  position: relative;
+  right: 38px;
+  bottom: 90px;
+}

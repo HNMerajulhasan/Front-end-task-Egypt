@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="419" height="164" viewBox="0 0 419 164">
+  <defs>
+    <filter id="Rectangle_389" x="0" y="0" width="419" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8552" data-name="Group 8552" transform="translate(-1081 -2469)">
+    <g transform="matrix(1, 0, 0, 1, 1081, 2469)" filter="url(#Rectangle_389)">
+      <rect id="Rectangle_389-2" data-name="Rectangle 389" width="377" height="122" rx="16" transform="translate(21 15)" fill="#fff"/>
+    </g>
+    <text id="Scheduling_Overload_and_Unorganised" data-name="Scheduling Overload and Unorganised" transform="translate(1291 2534)" fill="#67707d" font-size="14" font-family="Nunito" font-weight="500" letter-spacing="-0.009em"><tspan x="-116" y="0">scheduling overload and unorganised</tspan></text>
+    <text id="EASY_SCHUDELE_Making_" data-name="EASY SCHUDELE Making 😍" transform="translate(1291 2567)" fill="#0b2c75" font-size="17" font-family="Nunito" font-weight="700" letter-spacing="-0.009em"><tspan x="-99" y="0">Easy Schudele Making </tspan><tspan y="0" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="400">😍</tspan></text>
+  </g>
+</svg>

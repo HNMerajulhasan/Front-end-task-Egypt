@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="418" height="164" viewBox="0 0 418 164">
+  <defs>
+    <filter id="Rectangle_391" x="0" y="0" width="418" height="164" filterUnits="userSpaceOnUse">
+      <feOffset dy="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-opacity="0.243"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_8551" data-name="Group 8551" transform="translate(-996 -2618)">
+    <g transform="matrix(1, 0, 0, 1, 996, 2618)" filter="url(#Rectangle_391)">
+      <rect id="Rectangle_391-2" data-name="Rectangle 391" width="376" height="122" rx="16" transform="translate(21 15)" fill="#fff"/>
+    </g>
+    <g id="Group_8550" data-name="Group 8550" transform="translate(2)">
+      <text id="Marketing_was_confusing_and_never_seemed_to_bring_in_enough_leads" data-name="Marketing was confusing and never seemed
+to bring in enough leads" transform="translate(1203 2670)" fill="#67707d" font-size="14" font-family="Nunito" font-weight="500" letter-spacing="-0.009em"><tspan x="-136" y="0">marketing was confusing and never seemed</tspan><tspan x="-75" y="19">to bring in enough leads</tspan></text>
+      <text id="Marketing_Tracking_" data-name="Marketing Tracking 😍" transform="translate(1203 2726)" fill="#0b2c75" font-size="17" font-family="Nunito" font-weight="700" letter-spacing="-0.009em"><tspan x="-87" y="0">Marketing Tracking </tspan><tspan y="0" font-family="AppleColorEmoji, Apple Color Emoji" font-weight="400">😍</tspan></text>
+    </g>
+  </g>
+</svg>
